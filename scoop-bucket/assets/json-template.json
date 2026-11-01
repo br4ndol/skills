@@ -1,0 +1,22 @@
+{
+    "version": "",
+    "description": "",
+    "homepage": "",
+    "license": "",
+    "notes": "",
+    "url": "",
+    "hash": "",
+    "extract_dir": "",
+    "pre_install": "",
+    "post_install": "",
+    "bin": "",
+    "shortcuts": [],
+    "persist": [],
+    "checkver": {
+        "github": ""
+    },
+    "autoupdate": {
+        "url": "",
+        "extract_dir": ""
+    }
+}
