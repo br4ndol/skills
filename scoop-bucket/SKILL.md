@@ -119,7 +119,7 @@ Report to the user:
 
 1. **No Invented Hashes or URLs**: All URLs must exist and hashes must match the real file.
 2. **Clean JSON**: No unused fields, no `"##"` comments, no empty strings.
-3. **Commit Messages**: Use format `app: action` (e.g., `spotifast: update to 0.14.2`, `helium: add manifest`).
+3. **Commit Messages**: Use format `app: Action` (e.g., `spotifast: Update to 0.14.2`, `helium: Add manifest`).
 4. **Language**: `description` and `notes` fields in manifests must always be in English.
 5. **Architectural Style**: Top-level single-arch (`x86_64`) placement for `url`, `hash`, `extract_dir`.
 
